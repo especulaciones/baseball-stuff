@@ -1,3 +1,3 @@
-# Welcome to Baseball Explorations
+# Baseball Explorations
 
-Opening-day thoughts... more posts soon!
+Under constructions.
