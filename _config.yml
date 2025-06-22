@@ -1,1 +1,1 @@
-theme: minima    # or minimal, slate, merlot, etc. alternatively, use jekyll-theme-minima
+theme: jekyll-theme-leap-day    # or minimal, slate, merlot, etc.
