@@ -1,3 +1,5 @@
-# Baseball Explorations
+---
+title: "The Cove"
+---
 
-Under constructions.
+Under construction.
