@@ -1,3 +1,0 @@
-# Baseball Explorations
-
-Under construction.
