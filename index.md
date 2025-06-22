@@ -2,4 +2,4 @@
 title: "The Cove"
 ---
 
-Under construction.
+Site under construction.
